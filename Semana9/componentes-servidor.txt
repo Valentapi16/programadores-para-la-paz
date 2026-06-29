@@ -1,0 +1,14 @@
+**Sistema operativo**
+Es el software que administra los recursos del computador y permite ejecutar programas. También facilita la comunicación entre el hardware y las aplicaciones, como un servidor web.
+
+**Node.js**
+Es un entorno de ejecución que permite ejecutar código JavaScript en el servidor. Se utiliza para crear aplicaciones web y APIs de forma rápida y eficiente.
+
+**Aplicación server.js**
+Es el archivo donde se escribe la lógica del servidor y se configuran las rutas de la aplicación. Define cómo responderá el servidor a las solicitudes de los usuarios.
+
+**Puerto**
+Es un punto de comunicación que utiliza el servidor para recibir solicitudes de los clientes. Por ejemplo, el puerto 3000 permite acceder a la aplicación desde el navegador.
+
+**Logs**
+Son registros que almacenan información sobre la actividad y los eventos del servidor. Ayudan a monitorear el funcionamiento de la aplicación y a detectar errores o problemas.

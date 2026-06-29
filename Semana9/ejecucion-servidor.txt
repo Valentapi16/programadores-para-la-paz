@@ -1,0 +1,20 @@
+**Ejecución del servidor**
+
+Al ejecutar el comando `node server.js`, el servidor de Express se inicia y queda a la espera de recibir solicitudes en el puerto 3000.
+
+**Mensaje que aparece en la terminal**
+
+Se muestra el mensaje: `Servidor activo y funcionando`, lo que indica que el servidor inició correctamente.
+
+**Resultado al visitar la ruta `/estado`**
+
+Al acceder a `http://localhost:3000/estado`, el servidor responde con un objeto JSON que muestra el estado del servicio:
+
+```json
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
+```
+
+Esto confirma que la API está funcionando correctamente y puede responder a las solicitudes de los usuarios.

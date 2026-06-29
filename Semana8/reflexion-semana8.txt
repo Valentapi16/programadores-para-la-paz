@@ -7,3 +7,5 @@ compartir información. También ayuda a garantizar que la información sea ínt
 de forma malintencionada. Aplicar buenas prácticas de seguridad reduce los riesgos de ataques informáticos
 y protege la privacidad de los usuarios. En conjunto, la seguridad digital fortalece el funcionamiento de las plataformas
 y promueve una participación más segura y responsable.
+
+Se hizo en computadora local
