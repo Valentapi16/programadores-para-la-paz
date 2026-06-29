@@ -1,0 +1,9 @@
+Es importante que las plataformas tecnológicas puedan recibir reportes 
+o información enviada por los ciudadanos de forma estructurada porque esto 
+facilita la organización y el procesamiento de los datos. Cuando la información
+sigue un formato definido, es más fácil clasificarla, analizarla y dar seguimiento a cada caso.
+Además, reduce errores y evita que se pierdan datos importantes durante el registro. 
+Este tipo de organización también permite responder con mayor rapidez a las necesidades de la comunidad. 
+Asimismo, favorece la transparencia y mejora la comunicación entre los ciudadanos y las instituciones. 
+Gracias a ello, las decisiones pueden tomarse con información más precisa y confiable. 
+En general, una estructura adecuada hace que las plataformas sean más eficientes y útiles para todos los usuarios.
