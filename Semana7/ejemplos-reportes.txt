@@ -1,0 +1,13 @@
+Ejemplo 1:
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público en el parque principal del barrio."
+}
+
+Ejemplo 2:
+
+{
+  "tipo": "Seguridad",
+  "descripcion": "Se reporta un semáforo averiado en una intersección con alto flujo vehicular."
+}

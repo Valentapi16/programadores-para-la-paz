@@ -1,0 +1,15 @@
+Prueba de la ruta GET /reportes
+
+Al enviar un reporte mediante la ruta POST `/reportes`, la información queda registrada en el servidor.
+Posteriormente, al consultar la ruta GET `/reportes`, se devuelve una lista en formato JSON con todos 
+los reportes almacenados. En la respuesta se puede observar la información de cada reporte, como el 
+identificador, el tipo y la descripción. Esto permite consultar de manera organizada todos los reportes
+registrados en la aplicación.
+
+[
+    {
+        "id": 1,
+        "tipo": "Infraestructura",
+        "descripcion": "Daño en alumbrado público"
+    }
+]

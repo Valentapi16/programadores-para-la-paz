@@ -10,3 +10,5 @@ Esta ruta podría utilizarse para que los ciudadanos envíen reportes
 sobre problemas de su comunidad, como daños en las vías, fallas en el alumbrado público,
  incidentes de seguridad o sugerencias. De esta manera, la información llega de forma organizada
   al sistema y puede ser gestionada por la entidad o los administradores correspondientes.
+
+Se trabajo en computadora local
